@@ -1,0 +1,64 @@
+body {
+    margin: 30px;
+    padding: 30px;
+    width: 650px;
+    border: 2px black solid;
+    border-radius: 20px;
+}
+
+main {
+    display: flex;
+    flex-direction: row;
+}
+
+.box1 {
+    display: flex;
+    flex-direction: row;
+    
+
+}
+
+.tip1 {
+    width: 200px;
+    height: 200px;
+    padding-top: 40px;
+
+}
+
+img {
+    height: 100px;
+    width: 150px;
+    padding-top: 30px;
+}
+
+
+.box2 {
+    position: relative;
+}
+
+.dialogue {
+    color: white;
+    background-color: black;
+    border-radius: 10px;
+    width: 220px;
+    height: 20px;
+    padding: 30px;
+    
+}
+
+.arrow {
+    position: absolute;
+    top: 80px;
+    left: 130px;
+    border-width: 20px 20px 20px 0;
+    border-style: solid;
+    border-color: transparent #000000 transparent transparent;
+    transform: rotate(-90deg);
+  }
+  
+.link {
+    display:inline-flex;
+    gap: 60px;
+    font-size: larger;
+
+}
