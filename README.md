@@ -1,5 +1,8 @@
 # Tooltip UI
 
+![Image description](tooltip-ui.png)
+
+
 A lightweight and customizable tooltip UI component built using HTML and CSS.
 
 ## Features
